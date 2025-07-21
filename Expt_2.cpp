@@ -30,3 +30,16 @@ int main() {
 
     return 0;
 }
+
+/* Output
+
+Enter an integer, a float, a double, a char, a string, and a bool (separated by space): 2 3.14 5.12345678 A HelloWorld 1   
+
+Integer is 2 and the size of it is 4 bytes
+Float is 3.14 and the size of it is 4 bytes
+Double is 5.12346 and the size of it is 8 bytes
+Character is A and the size of it is 1 byte
+String is HelloWorld and the size of it is 32 bytes
+Boolean is 1 and the size of it is 1 byte
+
+*/
